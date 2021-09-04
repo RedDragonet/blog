@@ -1,20 +1,19 @@
 baseURL: /
-title: Eureka Demo
+title: TECH 远行
 
 # Comment when installing using Hugo Modules
 # theme: eureka
 # Uncomment when installing using Hugo Modules
 theme: github.com/wangchucheng/hugo-eureka
 
-paginate: 3
+paginate: 5
 copyright: >
-  &copy; 2021 <a href="https://www.wangchucheng.com/">C. Wang</a> and <a
-  href="https://www.ruiqima.com/">R. Ma</a>
+  &copy; 2021 <a href="https://blog.golangtool.com//">TongZhao</a>
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
 
-defaultContentLanguage: en
+defaultContentLanguage: zh
 hasCJKLanguage: false # Set `true` for Chinese/Japanese/Korean.
 defaultContentLanguageInSubdir: false
 
