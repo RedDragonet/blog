@@ -6,7 +6,7 @@ title: TECH 远行
 # Uncomment when installing using Hugo Modules
 theme: github.com/wangchucheng/hugo-eureka
 
-paginate: 5
+paginate: 10
 copyright: >
   &copy; 2021 <a href="https://blog.golangtool.com//">TongZhao</a>
 enableEmoji: true
